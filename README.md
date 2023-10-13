@@ -1,2 +1,2 @@
-# tedxfong.github.io
+tedxfong.github.io
 Yu Feng's personal website.
