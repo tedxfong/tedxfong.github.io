@@ -1,2 +1,2 @@
-# [Yu Feng's personal website](https://tedxfong.github.io/)
+# [Yu Feng's personal website](https://yu-feng.pages.dev/)
 
